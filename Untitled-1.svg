@@ -1,7 +1,12 @@
+<html>
+<body>
+<div>Hello everypony</div>
 <svg xmlns="http://www.w3.org/2000/svg" >
 <foreignObject x="20" y="20" width="160" height="160">
 <div xmlns="http://www.w3.org/1999/xhtml">
   hello, world!
 </div>
-  </foreignObject>
+</foreignObject>
 </svg>
+</body>
+</html>
