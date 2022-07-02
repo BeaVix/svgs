@@ -10,7 +10,7 @@
     </style>
     <foreignObject x="0" y="0" width="100" height="100">
         <details xmlns="http://www.w3.org/1999/xhtml>
-            <summary xmlns="http://www.w3.org/1999/xhtml">test</summary xmlns="http://www.w3.org/1999/xhtml">
+            <summary xmlns="http://www.w3.org/1999/xhtml">test</summary>
         </details>
-    </foreignObject xmlns="http://www.w3.org/1999/xhtml">
+    </foreignObject>
 </svg>
